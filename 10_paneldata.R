@@ -184,3 +184,5 @@ Q <- kronecker(E_n, E_t)
 kronecker(diag(5), I_t)
 
 5*kronecker(I_n, I_t)
+
+# This line is from RStudio
